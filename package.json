@@ -1,0 +1,11 @@
+{
+  "name": "calculatr",
+  "version": "0.0.1",
+  "description": "CLI Calculator",
+  "main": "calculatr.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R mocha"
+  },
+  "author": "Diogo Paza",
+  "license": "MIT"
+}
